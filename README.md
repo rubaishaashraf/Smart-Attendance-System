@@ -26,7 +26,7 @@ A smart attendance system that uses computer vision to detect faces and automati
   
 ## 📦 Install Libraries
 bash
-pip install opencv-python numpy scikit-learn
+-pip install opencv-python numpy scikit-learn
 
 ---
 
@@ -61,7 +61,7 @@ Attendance records and trained data are generated during runtime. Only sample da
 
 ## ▶️ Run
 bash
-python gui.py
+-python gui.py
 
 ---
 ## Author
