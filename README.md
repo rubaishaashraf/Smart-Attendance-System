@@ -62,3 +62,6 @@ Attendance records and trained data are generated during runtime. Only sample da
 ## ▶️ Run
 ``bash
 python gui.py
+
+-----------------------------------------------------------------------------------------------------------------------------## Author
+Rubaisha
