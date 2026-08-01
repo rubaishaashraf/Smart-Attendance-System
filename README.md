@@ -64,5 +64,5 @@ bash
 - python gui.py
 
 ---
-## Author
+## 👩‍💻 Author
 Rubaisha
